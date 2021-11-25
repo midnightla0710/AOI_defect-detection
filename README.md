@@ -24,10 +24,10 @@
 
 ---
 ※程式說明：
-01_detect_classify.py：移動圖檔到對應類別的資料夾。
-02_transfer_three_channels.py：將單通道圖檔轉換成三通道圖檔。
-03_train_model_MobileV3.py：以遷移學習的方式訓練影像分類模型。
-04_predit.py：辨識圖檔屬於哪個分類。
+1. 01_detect_classify.py：移動圖檔到對應類別的資料夾。
+2. 02_transfer_three_channels.py：將單通道圖檔轉換成三通道圖檔。
+3. 03_train_model_MobileV3.py：以遷移學習的方式訓練影像分類模型。
+4. 04_predit.py：辨識圖檔屬於哪個分類。
 
 ---
 ※實作過程：
