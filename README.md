@@ -50,6 +50,7 @@
 7. 預測test資料集
   * 複製圖檔：99.35881%。
     ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/rank.jpg)
+  
   * 設定class_weight：99.13686%。
     ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/rank.jpg)
 
