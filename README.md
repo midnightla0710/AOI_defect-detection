@@ -8,11 +8,11 @@
 3. 比賽內容：自動光學檢查（Automated Optical Inspection，簡稱 AOI）。希望藉由 AOI 影像訓練深度學習模型，判讀軟性電子顯示器的表面瑕疵。
 
 4. 資料集：，6個類別（正常類別 + 5 種瑕疵類別）的影像資料。
-  4.1 train_images.zip：訓練所需的影像資料（PNG格式），共計2,528張。
-  4.2 test_images.zip：測試所需的影像資料（PNG格式），共計10,142張。
-  4.3 train.csv：包含 2 個欄位，ID(影像的檔名) 和 Label(瑕疵分類類別)。
-  4.4 test.csv：包含 2 個欄位，ID 和 Label。
-  4.5 Label：（0 表示 normal，1 表示 void，2 表示 horizontal defect，3 表示 vertical defect，4 表示 edge defect，5 表示 particle）。
+    4.1 train_images.zip：訓練所需的影像資料（PNG格式），共計2,528張。
+    4.2 test_images.zip：測試所需的影像資料（PNG格式），共計10,142張。
+    4.3 train.csv：包含 2 個欄位，ID(影像的檔名) 和 Label(瑕疵分類類別)。
+    4.4 test.csv：包含 2 個欄位，ID 和 Label。
+    4.5 Label：（0 表示 normal，1 表示 void，2 表示 horizontal defect，3 表示 vertical defect，4 表示 edge defect，5 表示 particle）。
 
 ---
 ※ 電腦軟硬體配置
