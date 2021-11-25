@@ -19,8 +19,8 @@
 1. 作業系統：Windows10
 2. CPU：Intel-10700K
 3. GPU：RTX2060S(顯存8G)
-4. RAM 48G
-5. Frame：Tensorflow。
+4. RAM：48G
+5. Frame：Tensorflow
 
 ---
 ※程式說明：
