@@ -21,7 +21,6 @@
 4. RAM：48G
 5. Framework：Tensorflow
 
----
 ## 程式說明：
 1. 01_detect_classify.py：移動圖檔到對應類別的資料夾。
 2. 02_transfer_three_channels.py：將單通道圖檔轉換成三通道圖檔。
