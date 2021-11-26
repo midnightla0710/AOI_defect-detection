@@ -46,10 +46,8 @@
 
 5. 選用MobileNetV3預訓練模型：因樣本數量遠低於5000張，較適合使用輕量化、淺層模型。
 
-6. 學習曲線與訓練過程
-  
+6. 學習曲線與訓練過程 
   * 複製圖檔
-   
    * Accuracy
       ![](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/acc.png)
     
@@ -59,8 +57,7 @@
     * Process
       ![](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/trianing.jpg)
 
-  * 設定class_weight
-    
+  * 設定class_weight  
     * Accuracy
       ![](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/acc.png)
     
