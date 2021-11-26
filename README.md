@@ -1,6 +1,6 @@
 # AOI_defect-detection
 
-※ AOI瑕疵分類
+※ AOI瑕疵檢測
 1. 競賽來源：[人工智慧共創平台](https://aidea-web.tw/topic/285ef3be-44eb-43dd-85cc-f0388bf85ea4)
 
 2. 議題提供單位：工業技術研究院
