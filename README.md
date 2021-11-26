@@ -34,7 +34,7 @@
 1. 讀取train.csv後，依照類別移動圖檔到對應類別的資料夾。
 
 2. 移動圖檔到對應資料夾後，統計各類別資料數量。
-![alt text](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class%20and%20num.png)
+![](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class%20and%20num.png)
 
 3. 承上，發現資料集有不均衡問題，嘗試解決方法如下：
   * 資料數量不足的類別，以複製圖檔的方式，使每個類別的圖檔數量一致。
