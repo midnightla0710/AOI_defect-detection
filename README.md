@@ -81,4 +81,4 @@
 ## 成績
    * 位居排名第19。
    * MobileNetV3模型的測試準確：99.35881%。
-   * Inference time：0.0167秒。
+   * Inference time：0.0167秒/張圖檔。
