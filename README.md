@@ -48,11 +48,13 @@
 
 6. 學習曲線與訓練過程
   * 複製圖檔
-   ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/acc.png) ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/loss.png)
+   ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/acc.png)
+   ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/loss.png)
    ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/trianing.jpg)
 
   * 設定class_weight
-   ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/acc.png) ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/loss.png)
+   ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/acc.png)
+   ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/loss.png)
    ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/trianing.jpg)
 
 7. 預測test資料集
