@@ -34,6 +34,7 @@
 1. 讀取train.csv後，依照類別移動圖檔到對應類別的資料夾。
 
 2. 移動圖檔到對應資料夾後，統計各類別資料數量。
+![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class%20and%20num.png)
 
 3. 承上，發現資料集有不均衡問題，嘗試解決方法如下：
   * 資料數量不足的類別，以複製圖檔的方式，使每個類別的圖檔數量一致。
@@ -46,6 +47,13 @@
 5. 選用MobileNetV3預訓練模型：因樣本數量遠低於5000張，較適合使用輕量化、淺層模型。
 
 6. 學習曲線與訓練過程
+  * 複製圖檔
+   ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/acc.png) ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/loss.png)
+   ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/trianing.jpg)
+
+  * 設定class_weight
+   ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/acc.png) ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/loss.png)
+   ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/trianing.jpg)
 
 7. 預測test資料集
   * 複製圖檔：99.35881%。
