@@ -49,10 +49,12 @@
 
 7. 預測test資料集
   * 複製圖檔：99.35881%。
-    ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/rank.jpg)
+    
+   ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/rank.jpg)
   
   * 設定class_weight：99.13686%。
-    ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/rank.jpg)
+    
+   ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/rank.jpg)
 
 8. 未來改進：使用GAN進行資料擴增，並選用準確率更高的深層。
 
