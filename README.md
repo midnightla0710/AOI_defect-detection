@@ -34,7 +34,7 @@
 1. 讀取train.csv後，依照類別移動圖檔到對應類別的資料夾。
 
 2. 移動圖檔到對應資料夾後，統計各類別資料數量。
-![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class%20and%20num.png)
+![alt text](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class%20and%20num.png)
 
 3. 承上，發現資料集有不均衡問題，嘗試解決方法如下：
   * 資料數量不足的類別，以複製圖檔的方式，使每個類別的圖檔數量一致。
@@ -48,9 +48,9 @@
 
 6. 學習曲線與訓練過程
   * 複製圖檔
-    ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/acc.png)
-    ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/loss.png)
-    ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/trianing.jpg)
+    ![alt text](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/acc.png)
+    ![alt text](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/loss.png)
+    ![alt text](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/trianing.jpg)
 
   * 設定class_weight
     ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/acc.png)
@@ -58,13 +58,9 @@
     ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/trianing.jpg)
 
 7. 預測test資料集
-  * 複製圖檔：99.35881%。
-    
-   ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/rank.jpg)
+  * 複製圖檔：[99.35881%](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/rank.jpg)
   
-  * 設定class_weight：99.13686%。
-    
-   ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/rank.jpg)
+  * 設定class_weight：[99.13686%](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/rank.jpg)
 
 8. 未來改善方式：使用GAN進行資料擴增，並選用準確率更高、更深層的預訓練模型。
 
