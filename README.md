@@ -49,23 +49,21 @@
 6. 學習曲線與訓練過程 
   * 複製圖檔
    * Accuracy
-      ![](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/acc.png)
-    
-    * Loss
-      ![](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/loss.png)
-    
-    * Process
-      ![](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/trianing.jpg)
+     ![](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/acc.png)
+   * Loss
+     ![](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/loss.png)
+   * Process
+     ![](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/trianing.jpg)
 
   * 設定class_weight  
-    * Accuracy
-      ![](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/acc.png)
+   * Accuracy
+     ![](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/acc.png)
     
-    * Loss
-      ![](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/loss.png)
+   * Loss
+     ![](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/loss.png)
    
-    * Process
-      ![](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/trianing.jpg)
+   * Process
+     ![](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/trianing.jpg)
 
 7. 預測test資料集
   * 複製圖檔：[99.35881%](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/copy/rank.jpg)
