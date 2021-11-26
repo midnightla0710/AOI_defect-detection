@@ -56,7 +56,7 @@
     
    ![image](https://github.com/midnightla0710/AOI_defect-detection/blob/main/pictures/class_weight/rank.jpg)
 
-8. 未來改進：使用GAN進行資料擴增，並選用準確率更高、更深層的預訓練模型。
+8. 未來改善方式：使用GAN進行資料擴增，並選用準確率更高、更深層的預訓練模型。
 
 ---
 ※ 最終分數與排名：MobileNetV3模型的測試準確99.35881%，位居排名第19。
